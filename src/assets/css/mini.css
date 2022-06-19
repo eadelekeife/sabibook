@@ -1,0 +1,20 @@
+.mini_black_bg {
+    background: #000;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+}
+
+.mini_black_bg h5 {
+    color: #fff;
+    font-size: 2.8rem;
+}
+
+.mini_black_bg h6 {
+    color: #fff;
+    font-size: 1.2rem;
+}
+
+.mini_black_bg .container {
+    align-self: center;
+}

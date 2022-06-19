@@ -1,0 +1,52 @@
+.auth_logo {
+    height: 4.5rem;
+    margin-bottom: 5px;
+}
+
+.auth_page {
+    height: 100vh;
+}
+
+.auth_bg {
+    background: url('../images/hero.webp');
+    background-position: center;
+    background-size: cover;
+}
+
+.auth_flex {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    height: 100%;
+}
+
+.auth_flex .contain {
+    display: grid;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    padding: 0 15px;
+}
+
+.form_group {
+    margin-bottom: 20px;
+}
+
+.form_group label {
+    font-size: 1.3rem;
+}
+
+.auth_page p {
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+    line-height: 1.8;
+}
+
+.auth_page .auth_links p {
+    margin-bottom: 0%;
+}
+
+.auth_page h2 {
+    font-weight: 600;
+    margin-bottom: 0%;
+    font-size: 1.8rem;
+}
